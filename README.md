@@ -3,7 +3,7 @@ Repositorio para armazenar o projeto de Projeto Integrador de Programção do pr
 
 ## Colaboradores
 [Isaac Kosmos](github.com/isaackosmos)
-[Wagner Cichacz](github.com/wagnercichcacz96)
+[Wagner Cichacz](https://github.com/wagnercichcaz96)
 [Eliventon Strapação](https://github.com/strapacao)
 [Eduardo Kolisnek](github.com/kolisnek)
 
